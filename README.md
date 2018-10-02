@@ -1,5 +1,7 @@
 # Java-Thread-Exercise
 
+Fall 2018
+
 Write  a  program  in  Java  which  creates  producer  and  consumer  threads.  
 The producer should  “produce”  by  setting  the  elements  of  an  array  of  integers  to FULL.  
 The  consumer  should “consume” by setting the elements of an array of integers to EMPTY. 
